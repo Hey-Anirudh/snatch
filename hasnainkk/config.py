@@ -7,7 +7,6 @@ class Config(object):
     #", "6138142369", "6346273488", "6143079414", "6495101094",
     GROUP_ID  =  "-1002800777153"
     TOKEN = "7465073735:AAGOgUfMB5SALpbw1dWkb-swU8latLqK8zc"
-    mongo_url = "mongodb+srv://ryumasgod:ryumasgod@cluster0.ojfkovp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     PHOTO_URL = ["https://telegra.ph/file/62b70323bbbde7cf8ed4e.jpg", "https://telegra.ph/file/62b70323bbbde7cf8ed4e.jpg", "https://telegra.ph/file/192832f0e136f50193489.jpg", "https://telegra.ph/file/6f9e5e2112b633164a101.jpg", "https://telegra.ph/file/d84750e4a34801fc82114.jpg", "https://telegra.ph/file/87df160e3f499a9a18c8d.jpg"]
     SUPPORT_CHAT = "moniclogs"
     UPDATE_CHAT = "moniclogs"
